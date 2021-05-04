@@ -1,2 +1,6 @@
 # CryptoPrices
-Small web app that shows live prices for top traded crypto currencies
+View data on top cryptocurrencies.
+
+## Made Using
+ - ReactJS (frontend)
+ - Axios (for api requests)
