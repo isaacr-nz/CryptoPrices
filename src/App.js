@@ -34,7 +34,7 @@ function App() {
           <input type="text" placeholder="Search" onChange={handleChange} className="coin-input" />
         </form>
       </div>
-      {filteredCoins.map(coin => {
+      { filteredCoins.map(coin => {
         return (
           <Coin 
           key={coin.id} 

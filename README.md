@@ -6,7 +6,6 @@ View data on top cryptocurrencies.
  - Axios (for api requests)
 
 ## Feature List (coming soon)
- - [ ] Styling
  - [ ] Ability to change currency (set to USD at the moment)
 
 ## Get Started
