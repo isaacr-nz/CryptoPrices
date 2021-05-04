@@ -1,6 +1,8 @@
 # CryptoPrices
 View data on top cryptocurrencies.
 
+Live version: https://cryptopricesnz.herokuapp.com/
+
 ## Made Using
  - ReactJS (frontend)
  - Axios (for api requests)
